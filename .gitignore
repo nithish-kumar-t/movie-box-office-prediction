@@ -1,0 +1,4 @@
+.env
+/movie_data_reddit
+__pycache__/
+*.pyc
