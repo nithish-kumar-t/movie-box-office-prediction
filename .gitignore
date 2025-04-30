@@ -3,5 +3,4 @@ movie_data/
 /movie_data_reddit
 __pycache__/
 *.pyc
-*.csv
 .ipynb_checkpoints/
